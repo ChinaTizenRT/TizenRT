@@ -64,6 +64,7 @@
 #                   reliable code generation.
 #
 
+ARCROSSDEV = xtensa-esp32-elf-
 CROSSDEV = xtensa-esp32-elf-
 
 ARCHCPUFLAGS =
